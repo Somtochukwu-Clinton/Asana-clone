@@ -1,0 +1,42 @@
+.cont14{
+    margin-left: 5.5rem;
+    margin-top: 7rem;
+}
+
+.img6{
+    width: 150px;
+}
+
+.cont13{
+    width: 300px;
+    height: 470px;
+    padding: 20px;
+    border: 1px solid #eee;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+    margin-top:3rem ;
+}
+.text11{
+  font-size: 65px;
+  font-weight: 600;
+  line-height: 1;
+}
+.text8{
+    font-size: 30px;
+    font-weight: 500;
+}
+.text9{
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 2rem;
+}
+
+.text10{
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 2rem;
+    text-align: center;
+}
+.cont15{
+    display: flex;
+    gap: 1rem;
+}
