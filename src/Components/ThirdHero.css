@@ -1,0 +1,51 @@
+.text5{
+ font-size: 70px;
+ font-weight: 500;
+ line-height: 1;
+ margin-left: 5rem;
+}
+.btn4{
+    width: 200px;
+    height: 60px;
+    border: none;
+    font-size: 30px;
+    border-radius: 50px;
+    background-color: rgb(223, 165, 179);
+}
+.btn5{
+    width: 200px;
+    height: 60px;
+    border: none;
+    font-size: 30px;
+    border-radius: 50px;
+}
+.img5{
+    width: 50rem;
+}
+.cont11{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4rem;
+}
+.text6{
+    font-size: 40px;
+    font-weight: 600;
+}
+.text7{
+  font-size: 30px;
+    font-weight: 400;  
+    margin-top: 3rem;
+}
+
+.btn6{
+    width: 200px;
+    height: 70px;
+    font-size: 22px;
+    border: 1px solid grey;
+    border-radius: 50px;
+    margin-top: 9rem;
+}
+.cont12{
+    margin-left: 5rem;
+    margin-top: 10rem;
+}
