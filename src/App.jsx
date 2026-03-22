@@ -3,6 +3,7 @@ import FouthHero from "./Components/FouthHero"
 import Header from "./Components/Header"
 import Hero from "./Components/Hero"
 import SecondHero from "./Components/SecondHero"
+import SixthHero from "./Components/SixthHero"
 import ThirldHero from "./Components/ThirldHero"
 
 
@@ -17,6 +18,7 @@ function App() {
     <ThirldHero/>
     <FouthHero/>
     <FifthHero/>
+    <SixthHero/>
       </>
               
            
