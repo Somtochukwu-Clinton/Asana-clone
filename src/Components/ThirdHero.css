@@ -49,3 +49,31 @@
     margin-left: 5rem;
     margin-top: 10rem;
 }
+
+
+@media (max-width:750px){
+    .img5{
+   width: 540px;
+   height: 250px;
+   margin: 0 auto;
+    }
+    .cont11{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .text6,
+    .text7{
+        text-align: center;
+        margin-top: 2rem;
+
+    }
+    .cont{
+       justify-content: center;
+       display: flex;
+       flex-direction: column;
+    }
+    .btn6{
+        margin-left: 10rem;
+    }
+}

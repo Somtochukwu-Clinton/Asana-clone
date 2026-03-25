@@ -1,0 +1,42 @@
+.cont23{
+    margin-top: 12rem;
+}
+.text18{
+    font-size: 80px;
+    font-weight: 500;
+    margin-left: 5rem;
+}
+
+.text19{
+    font-size: 30px;
+      margin-left: 5rem;
+       margin-top: 2rem;
+}
+.btn8{
+ width: 300px;
+ height: 70px;
+ border-radius: 20rem;
+ border: none;
+ color: var(--primary);
+ background-color: var(--secondary);
+ font-size: 20px;
+ margin-left: 5rem;
+ margin-top: 5rem;
+ margin-bottom: 10rem;
+}
+.img9{
+    width: 300px;
+    border: 1px solid rgb(215, 208, 208);
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 1rem;
+}
+.cont22{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+    
+}
