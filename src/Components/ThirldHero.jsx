@@ -19,7 +19,7 @@ const ThirldHero = () => {
     <article className='cont11'>
         <img className='img5' src="/src/assets/page.webp" alt="page" />
 
-        <div>
+        <div className='cont'>
             <h3 className='text6'>Maximize campaign ROI</h3>
             <h3 className='text7'>Streamline campaign management</h3>
             <h3  className='text7'>Enhance creative production</h3>
