@@ -26,6 +26,7 @@
 
 .container-2{
 background-color: rgb(51, 138, 172);
+border-radius: 1rem;
 padding: 70px;
 }
 .test1{
@@ -46,6 +47,7 @@ padding: 70px;
 .test4{
     font-size: 18px;
    font-weight: 500;
+   margin-top:3rem ;
 }
 .test5{
     font-size: 24px;
