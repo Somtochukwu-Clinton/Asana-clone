@@ -1,0 +1,17 @@
+.img--2{
+  width: 450px;
+  border-radius: 1rem;
+}
+.test--2{
+    font-size: 30px;
+}
+.test--3{
+    font-size: 22px;
+}
+
+.cont-2{
+    display: flex;
+    justify-content: space-around;
+    /* gap: 2rem; */
+    margin-top: 10rem;
+}
